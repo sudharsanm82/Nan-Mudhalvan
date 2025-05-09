@@ -61,3 +61,10 @@ Data preparation
 Accent classification or adaptation (if included)
 
 ASR model training
+
+🎤 Step 4: Inference & Transcription
+Record audio via microphone (if supported).
+
+Run inference to generate a transcript.
+
+Output includes timestamps and recognized text.
